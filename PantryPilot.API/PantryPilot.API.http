@@ -1,0 +1,6 @@
+@PantryPilot.API_HostAddress = http://localhost:5189
+
+GET {{PantryPilot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
