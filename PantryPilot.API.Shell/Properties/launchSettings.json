@@ -19,7 +19,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "https": {
+    "Local Debugging Profile": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
