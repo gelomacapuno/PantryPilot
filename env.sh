@@ -1,0 +1,1 @@
+export PATH="/c/Tools/node-24:$PATH"
